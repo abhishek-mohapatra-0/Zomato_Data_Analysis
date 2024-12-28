@@ -1,6 +1,8 @@
 # Zomato_Data_Analysis
 ![image](https://github.com/user-attachments/assets/df032ff5-674c-42d3-a4ec-48b7c99927af)
 
+Interactive Dashboard - https://shorturl.at/YL39w
+
 
 # Problem Statement:
 Zomato, a leading food delivery platform, operates in various cities worldwide. Understanding consumer preferences, restaurant distribution, and overall market trends is vital for optimizing operations and enhancing user satisfaction. The key challenges identified are:
